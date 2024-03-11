@@ -1,0 +1,3 @@
+[submodule "vendor/Steamodded"]
+	path = vendor/Steamodded
+	url = https://github.com/Steamopollys/Steamodded
